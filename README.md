@@ -102,9 +102,3 @@ The overall methodology involved a clear pipeline from data retrieval to analysi
 * U.S. National Science Foundation, Grant #2127548
 
 * CI Compass
-
-### **Citation & License**
-
-This work is provided under the [Your Chosen License, e.g., MIT or Apache 2.0] license.
-
-If you use this work in your own research or projects, please consider citing it using its persistent Digital Object Identifier (DOI) on Zenodo. This provides proper attribution and makes the work discoverable.
