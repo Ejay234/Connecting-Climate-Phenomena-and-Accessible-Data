@@ -7,7 +7,7 @@
 
 ### **Project Summary**
 
-This project documents a reproducible workflow for analyzing the relationship between the El Niño-Southern Oscillation (ENSO) and local environmental data. By retrieving, cleaning, and visualizing temperature data from a variety of scientific infrastructures—Ocean Observatories Initiative (OOI), Ocean Networks Canada (ONC), and the National Ecological Observatory Network (NEON)—this repository demonstrates how to integrate disparate datasets to identify key climate trends. This work emphasizes the critical role of data and infrastructure literacy in modern scientific analysis.
+This project documents a reproducible workflow for analyzing the relationship between the El Niño-Southern Oscillation (ENSO) and local environmental data. By retrieving, cleaning, and visualizing temperature data from a variety of scientific infrastructures such as the Ocean Observatories Initiative (OOI), Ocean Networks Canada (ONC), and the National Ecological Observatory Network (NEON)—this repository demonstrates how to integrate disparate datasets to identify key climate trends. This work emphasizes the critical role of data and infrastructure literacy in modern scientific analysis.
 
 ### **Repository Contents**
 
@@ -61,7 +61,7 @@ These notebooks document the process of accessing data from Ocean Networks Canad
 
 ### **Methodology and Key Findings**
 
-The overall methodology involved a clear pipeline from data retrieval to analysis and visualization. The key lesson learned was the importance of **data infrastructure literacy**—understanding the nuances of each data provider's API is as crucial as the scientific analysis itself. The project found that while higher-latitude sites exhibited weaker short-term ENSO signals, they showed clearer long-term cycles, and that the depth and resolution of the data were significant factors in identifying these trends.
+The overall methodology involved a clear pipeline from data retrieval to analysis and visualization. The key lesson learned was the importance of **data infrastructure literacy** where understanding the nuances of each data provider's API is as crucial as the scientific analysis itself. The project found that while higher-latitude sites exhibited weaker short-term ENSO signals, they showed clearer long-term cycles, and that the depth and resolution of the data were significant factors in identifying these trends.
 
 ### **How to Run the Project**
 
