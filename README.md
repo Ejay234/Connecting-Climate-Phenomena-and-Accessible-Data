@@ -68,8 +68,8 @@ The overall methodology involved a clear pipeline from data retrieval to analysi
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/Ejay234/Connecting-Climate-Phenomena-and-Accessible-Data.git
+    cd Connecting-Climate-Phenomena-and-Accessible-Data
     ```
 
 2.  **Install Dependencies:**
