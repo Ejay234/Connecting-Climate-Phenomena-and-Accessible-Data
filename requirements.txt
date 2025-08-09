@@ -1,0 +1,8 @@
+# To make this file fully reproducible, replace these placeholder versions
+# with the specific versions from your environment.
+# You can run `pip freeze > requirements.txt` to generate a list of exact versions.
+pandas==2.2.0
+numpy==1.26.4
+matplotlib==3.8.2
+xarray==2024.2.0
+requests==2.31.0
