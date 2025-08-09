@@ -5,8 +5,6 @@
 **Author:** Ejay Aguirre
 **Mentors:** Jeffery Glatstein & Jim Case
 
-**DOI:** 10.5281/zenodo.16784160
-
 ### **Project Summary**
 
 This project documents a reproducible workflow for analyzing the relationship between the El Niño-Southern Oscillation (ENSO) and local environmental data. By retrieving, cleaning, and visualizing temperature data from a variety of scientific infrastructures such as the Ocean Observatories Initiative (OOI), Ocean Networks Canada (ONC), and the National Ecological Observatory Network (NEON)—this repository demonstrates how to integrate disparate datasets to identify key climate trends. This work emphasizes the critical role of data and infrastructure literacy in modern scientific analysis.
@@ -104,3 +102,6 @@ The overall methodology involved a clear pipeline from data retrieval to analysi
 * U.S. National Science Foundation, Grant #2127548
 
 * CI Compass
+
+### **Citation**
+Aguirre, E. (2025). Connecting-Climate-Phenomena-and-Accessible-Data: Initial Project Release (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.16784160
