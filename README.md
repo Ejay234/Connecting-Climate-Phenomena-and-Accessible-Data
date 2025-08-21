@@ -104,4 +104,4 @@ The overall methodology involved a clear pipeline from data retrieval to analysi
 * CI Compass
 
 ### **Citation**
-Aguirre, E. (2025). Connecting-Climate-Phenomena-and-Accessible-Data: Initial Project Release (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.16784160
+Aguirre, E. (2025). Connecting Climate Phenomena and Accessible Data: ENSO Analysis with OOI, ONC, and NEON Infrastructure. Zenodo. https://doi.org/10.5281/zenodo.16921722
